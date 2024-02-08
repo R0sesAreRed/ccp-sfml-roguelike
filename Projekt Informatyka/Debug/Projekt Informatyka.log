@@ -1,0 +1,30 @@
+﻿  Źródło.cpp
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(39,13): warning C4244: "inicjowanie": konwersja z "time_t" do "int", możliwa utrata danych
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(84,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(388,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(659,30): warning C4309: "=": obcięcie stałej wartości
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(660,30): warning C4309: "=": obcięcie stałej wartości
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(661,30): warning C4309: "=": obcięcie stałej wartości
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(662,30): warning C4309: "=": obcięcie stałej wartości
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(663,30): warning C4309: "=": obcięcie stałej wartości
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(664,29): warning C4309: "=": obcięcie stałej wartości
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(665,29): warning C4309: "=": obcięcie stałej wartości
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(666,29): warning C4309: "=": obcięcie stałej wartości
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(667,29): warning C4309: "=": obcięcie stałej wartości
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(668,29): warning C4309: "=": obcięcie stałej wartości
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(669,29): warning C4309: "=": obcięcie stałej wartości
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(670,29): warning C4309: "=": obcięcie stałej wartości
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(671,29): warning C4309: "=": obcięcie stałej wartości
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(672,29): warning C4309: "=": obcięcie stałej wartości
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(673,29): warning C4309: "=": obcięcie stałej wartości
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(1476,17): warning C4305: "inicjowanie": obcięcie z "int" do "char"
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(1476,13): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(1477,19): warning C4305: "inicjowanie": obcięcie z "int" do "char"
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(1477,15): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(1576,16): warning C4305: "=": obcięcie z "int" do "char"
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(1576,12): warning C4309: "=": obcięcie stałej wartości
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(1840,15): warning C4305: "=": obcięcie z "int" do "char"
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(1840,11): warning C4309: "=": obcięcie stałej wartości
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(1904,15): warning C4305: "=": obcięcie z "int" do "char"
+C:\Users\pawel\source\repos\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(1904,11): warning C4309: "=": obcięcie stałej wartości
+  Projekt Informatyka.vcxproj -> C:\Users\pawel\source\repos\Projekt Informatyka\Debug\Projekt Informatyka.exe

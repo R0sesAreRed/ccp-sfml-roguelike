@@ -1,0 +1,9 @@
+﻿  Źródło.cpp
+C:\Users\pawel\OneDrive - Politechnika Śląska\Dokumenty\STUDIA\projekt semestr\Rougelike-IT-project\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(31,13): warning C4244: "inicjowanie": konwersja z "time_t" do "int", możliwa utrata danych
+C:\Users\pawel\OneDrive - Politechnika Śląska\Dokumenty\STUDIA\projekt semestr\Rougelike-IT-project\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(499,25): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\pawel\OneDrive - Politechnika Śląska\Dokumenty\STUDIA\projekt semestr\Rougelike-IT-project\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(499,22): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\pawel\OneDrive - Politechnika Śląska\Dokumenty\STUDIA\projekt semestr\Rougelike-IT-project\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(626,17): warning C4244: "return": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\pawel\OneDrive - Politechnika Śląska\Dokumenty\STUDIA\projekt semestr\Rougelike-IT-project\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(708,35): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\pawel\OneDrive - Politechnika Śląska\Dokumenty\STUDIA\projekt semestr\Rougelike-IT-project\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(709,57): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\pawel\OneDrive - Politechnika Śląska\Dokumenty\STUDIA\projekt semestr\Rougelike-IT-project\Projekt Informatyka\Projekt Informatyka\Źródło.cpp(577): warning C4715: "Event_manager::get_input”: niewszystkie ścieżki kodu zwracają wartość
+  Projekt Informatyka.vcxproj -> C:\Users\pawel\OneDrive - Politechnika Śląska\Dokumenty\STUDIA\projekt semestr\Rougelike-IT-project\Projekt Informatyka\x64\Debug\Projekt Informatyka.exe
